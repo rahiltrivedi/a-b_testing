@@ -11,8 +11,6 @@ To determine whether a new variant (Group B) improves customer conversion compar
 ---
 
 
----
-
 ## 📊 Features
 
 - ✅ Clean and analyze A/B test data
@@ -39,6 +37,11 @@ To determine whether a new variant (Group B) improves customer conversion compar
 ```bash
 pip install pandas seaborn matplotlib statsmodels python-docx dash plotly docx2pdf
 ```
+### 2. To Open/Run Testing File
+```bash
+python ab_testing.py
+```
+### 3. To Open/Run Dashboard
 ```bash
 python dashboard.py
 ```
